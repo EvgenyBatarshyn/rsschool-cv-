@@ -7,7 +7,7 @@ I'm a student at Belarusian State University, a novice Ux/Ui designer. So, if yo
 * Illustrator
 * Unity
 ### Education 
-Web developer, Web designer BSU.
+Web developer, Web designer BSU
 ### English
 Pre-intermediate
 ### Portfolio
