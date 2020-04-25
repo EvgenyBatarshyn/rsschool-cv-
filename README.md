@@ -1,6 +1,6 @@
 # Evgeny Batarshyn
 ### Summary
-I'm a student at Belarusian State University, a novice Ux/Ui designer. So if you have a job for me, you can contact me at zbatarshyn@list.ru.
+I'm a student at Belarusian State University, a novice Ux/Ui designer. So, if you have a job for me, you can contact me at zbatarshyn@list.ru.
 ### Skills
 * Figma
 * Photoshop
